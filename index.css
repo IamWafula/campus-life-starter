@@ -1,0 +1,10 @@
+aside {
+    width: 30%;
+    float:right
+
+}
+
+#sect_news > article {
+    width: 60%;
+    float: left;
+}
