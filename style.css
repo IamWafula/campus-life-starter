@@ -1,0 +1,35 @@
+#banner{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#navigation {
+    background-color: rgba(0, 255, 255, 0.231);
+    padding: 10px;
+}
+
+aside {
+    width: 30%;
+    float:right
+
+}
+
+#sect_news > article {
+    width: 60%;
+    float: left;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(31, 31, 31);
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 500;
+}
